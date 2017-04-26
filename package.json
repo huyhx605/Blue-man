@@ -1,0 +1,16 @@
+{
+  "name": "ViettelTV",
+  "version": "1.0.0",
+  "description": "ViettelTV",
+  "main": "index.html",
+  "scripts": {
+    "lite": "lite-server –port 10001", 
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "huyhx2",
+  "license": "ISC",
+   "devDependencies": { 
+     "lite-server": "^1.3.1" 
+   } 
+}

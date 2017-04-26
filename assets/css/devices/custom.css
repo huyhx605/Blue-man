@@ -1,0 +1,13 @@
+/* mobile devices  */
+@media ( max-width : 1200px) {
+	.app-mobile {
+		display: block !important;
+		background: #fff;
+		color: #333;
+		line-height: 16px;
+		font-size: 12px;
+		padding: 4px 0 5px;
+		position: relative;
+		transition: all ease 0.3s;
+	}
+}

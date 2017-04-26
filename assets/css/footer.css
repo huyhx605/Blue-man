@@ -1,0 +1,24 @@
+footer {
+    background: #0a0e15;
+    padding: 50px 0 17px;
+    font-size: 13px;
+}
+hr.hr-footer {
+    border: none;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.38);
+    margin-bottom: 24px;
+}
+.app-list li a {
+    background: rgba(14, 22, 35, 0.86);
+    border: 1px solid rgba(128, 128, 128, 0.69);
+    display: block;
+    text-align: center;
+    padding: 10px 0;
+    border-radius: 3px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    opacity: 1;
+    transition: opacity .25s ease-in-out;
+    -moz-transition: opacity .25s ease-in-out;
+    -webkit-transition: opacity .25s ease-in-out;
+}

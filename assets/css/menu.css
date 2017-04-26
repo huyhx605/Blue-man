@@ -1,0 +1,56 @@
+@media screen and (min-device-width: 992px) {
+	.menu-main .dropdown:hover .dropdown-menu {
+		display: block;
+		margin-top: 0;
+	}
+	.menu-main .navbar-default {
+		background: rgba(14, 22, 35, 0.90);
+		border: none !important;
+		text-transform: uppercase;
+		margin: 0px;
+	}
+	.menu-main a {
+		color: #fff !important;
+	}
+	.menu-main .navbar-nav>li>a {
+		/* 		padding: 10px 11px !important; */
+		
+	}
+	.menu-main .menu>li>a:HOVER, .open>a {
+		background-color: #ffcc05 !important;
+		color: #000 !important;
+	}
+	.menu-main .dropdown-menu .menu-c3 {
+		left: 100%
+	}
+	.menu-main .dropdown-menu {
+		background: rgba(14, 22, 35, 0.86) !important;
+	}
+	.menu-main .dropdown-menu a:hover {
+		color: #ffcc05 !important;
+		background-color: rgba(24, 40, 64, 0.43) !important;
+	}
+	.menu-main .account-menu li {
+		text-transform: none;
+	}
+	.menu-main .account-menu li:HOVER {
+		color: #ffcc05 !important;
+	}
+
+	/* 	search */
+	.menu-search {
+		width: 210px;
+	}
+	.menu-search .text-input {
+		position: relative;
+	}
+	.menu-search .icon {
+		position: absolute;
+		right: 4px;
+		top: 2px;
+	}
+	.menu-search .text-input input {
+		border: 1px solid rgba(204, 204, 204, 0.17) !important;
+		background: #0a0e15;
+	}
+}
